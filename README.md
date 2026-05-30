@@ -1,8 +1,3 @@
-Perfeito! Em hackathons, focar no **MVP (Mínimo Produto Viável)** e deixar claro para os jurados o que é o protótipo funcional e o que é a visão de futuro é o segredo do sucesso.
-
-Aqui está a versão ajustada do **README.md**, totalmente adaptada para o contexto de um **protótipo** baseado no seu fluxo simplificado e completo:
-
----
 
 # Descubra Intelligence! 🚀 (Protótipo MVP)
 
